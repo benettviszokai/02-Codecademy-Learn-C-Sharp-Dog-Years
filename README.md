@@ -1,2 +1,5 @@
-# 02-Codecademy-Learn-C-Sharp-Dog-Years
-Codecademy - Learn C# - Dog Years
+### Codecademy - Learn C#
+# Dog Years
+#### Task description:
+
+An optional task from the *Working with numbers* lesson.
